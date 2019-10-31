@@ -1,0 +1,7 @@
+{
+  "name": "web3js-sample-project",
+  "dependencies": {
+    "web3": "^1.2.1",
+    "dotenv": "^8.2.0"
+  }
+}
